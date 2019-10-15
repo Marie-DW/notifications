@@ -1,0 +1,35 @@
+
+.height-120px {
+	height: 120px;
+}
+
+.box-shadow {
+	box-shadow: 5px 0 10px rgba(0,0,0,0.15);
+}
+
+.padding-top {
+	padding-top: 20px;
+}
+
+.d-flex a {
+    padding: 10px;
+    text-decoration: none;
+}
+ .text-dark {
+ 	border-bottom: 3px solid green;
+ }
+
+.text-muted:hover {
+	border-bottom: 3px solid green;
+	color: black !important;
+}
+
+.enfant3 {
+	color: lightgrey;
+	opacity: 1;
+}
+
+.enfant3:hover {
+	color: lightgrey;
+	opacity: 0;
+}
